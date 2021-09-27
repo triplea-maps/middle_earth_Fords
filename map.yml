@@ -1,0 +1,4 @@
+map_name: middle_earth_Fords
+games:
+- {game_name: 'Lord of the Rings: Middle Earth - Fords', file_name: middle_earth_12player.xml}
+version: 0
